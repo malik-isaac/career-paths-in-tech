@@ -4,19 +4,19 @@ A collaborative guide by Malik, leila,kariss.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Programming](#programming)
+- [Software engineering](#Softwareengineering)
 - [Networking](#networking)
-- [Cybesecurity](#cybersecurity)
+- [Cyber security](#cybersecurity)
 
 ## Introduction
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## Programming
-<!-- [Team Member 1 Name] will write this section -->
+## Software engineering
+<!-- [kariss] will write this section -->
 
 ## Networking
 <!-- [Team Member 2 Name] will write this section -->
 
 ## Cyber security
-<!-- [Team Member 3 Name] will write this section -->
+<!-- [Malik] will write this section -->
