@@ -1,1 +1,0 @@
-# career-paths-in-tech
