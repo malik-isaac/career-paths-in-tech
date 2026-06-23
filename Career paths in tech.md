@@ -1,6 +1,6 @@
 # Career paths in tech
 
-A collaborative guide by Malik, leila,kari.
+A collaborative guide by Malik, leila,kariss.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,11 +12,11 @@ A collaborative guide by Malik, leila,kari.
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
+## Programming
 <!-- [Team Member 1 Name] will write this section -->
 
-## Notion
+## Networking
 <!-- [Team Member 2 Name] will write this section -->
 
-## Canva
+## Cyber security
 <!-- [Team Member 3 Name] will write this section -->
