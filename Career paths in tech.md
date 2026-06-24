@@ -1,4 +1,4 @@
-A collaborative guide by Malik, leila,kariss.
+A collaborative guide by Malik, leila,kariss,Dennis.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -6,7 +6,41 @@ A collaborative guide by Malik, leila,kariss.
 - [Networking](#networking)
 - [Cyber security](#cybersecurity)
 
-
+# introduction
+- ChatGPT
+- Claude
+- Gemini
+- Perplexity
+- Elicit
+- Python
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- Hugging Face
+- Google Colab
+- Kaggle
+- Weights & Biases (W&B)
+- LangChain
+- LlamaIndex
+- Ollama
+- OpenAI API
+- FastAPI
+- Streamlit
+- Gradio
+- Docker
+- OpenCV
+- YOLO
+- DeepLearning.AI
+- Fast.ai
+- Coursera
+- Papers with Code
 ## Software engineering
 
 ### what is software engineering
