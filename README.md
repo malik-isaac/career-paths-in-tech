@@ -39,5 +39,10 @@ A **Data Scientist** is a professional who collects, analyzes, and interprets da
 
 * https://www.python.org/
 * https://jupyter.org/
+* ## Additional Resources
+
+- Kaggle: https://www.kaggle.com
+- Coursera: https://www.coursera.org
+- Python Tutorials: https://www.python.org/about/gettingstarted/
 * https://pandas.pydata.org/
 * https://www.kaggle.com/
