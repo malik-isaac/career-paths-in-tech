@@ -50,7 +50,9 @@ software engineering is the application of **engineering** principles to the dev
 - *backend development*-managing the data base server side that poer the front end
 ### impact
 Software engineering powers the modern digital economy. From mobile banking and healthcare information systems to cloud computing and artificial intelligence, software engineers build the foundation of technology that makes modern global communication, automation, and problem-solving possible.
-
+### Recommended Resources
+- [freeCodeCamp](https://www.freecodecamp.org/) - A great free platform to learn full-stack software engineering.
+- [MDN Web Docs](https://developer.mozilla.org/) - Excellent documentation for web development tools and languages.
 
 ## Networking
 <!-- [Team Member 2 Name] will write this section -->
@@ -83,4 +85,4 @@ Software engineering powers the modern digital economy. From mobile banking and 
 
 ## Practical Validation
 * **Platforms**: Hack The Box, TryHackMe (Advanced modules), Blue Team Labs Online.
-* **Portfolio**: Git repositories containing custom security tools, automation scripts, infrastructure-as-code configurations, or detailed vulnerability write-ups.
+* **Portfolio**: Git repositories containing custom security tools, automation scripts, infrastructure-as-code configurations, or detailed vulnerability write-ups.ssss
